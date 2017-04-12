@@ -1,2 +1,2 @@
 # tweepub
-Simply listens for tweets in Twitter Streaming API publishes them to Apache Kafka 
+Simply listens for tweets in Twitter Streaming API and publishes them to Apache Kafka.
